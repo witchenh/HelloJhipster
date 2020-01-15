@@ -19,7 +19,7 @@
     "paths": {
       "app/*": ["src/main/webapp/app/*"]
     },
-    "importHelpers": true,
+    "imtHelpers": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true
   },

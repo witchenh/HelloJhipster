@@ -104,6 +104,6 @@ public class HelloJhipsterApp implements InitializingBean {
             configServerStatus = "Not found or not setup for this application";
         }
         log.info("\n----------------------------------------------------------\n\t" +
-                "Config Server: \t{}\n----------------------------------------------------------", configServerStatus);
+            "Config Server: \t{}\n----------------------------------------------------------", configServerStatus);
     }
 }
